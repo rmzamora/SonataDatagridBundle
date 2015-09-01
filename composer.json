@@ -1,11 +1,16 @@
 {
-    "name": "sonata-project/datagrid-bundle",
+    "name": "rmzamora/datagrid-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony SonataDatagridBundle",
+    "description": "Symfony SonataDatagridBundle rmzamora forked",
     "keywords": ["datagrid", "sonata"],
     "homepage": "https://sonata-project.org/bundles/datagrid",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Mell M. Zamora",
+            "email": "me@mellzamora.com",
+            "homepage": "http://mellzamora.com"
+        },
         {
             "name": "Thomas Rabaix",
             "email": "thomas.rabaix@sonata-project.org",
